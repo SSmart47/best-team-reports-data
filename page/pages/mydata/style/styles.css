@@ -1,0 +1,25 @@
+::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+
+.css-div {
+	width: 95%;
+	height: 300px;
+	background-color: blue;
+	text-align: right;
+	border: 1px red;
+}
+
+.css-svg {
+	width: 99.7%;
+	height: 99%;
+	background-color: black;
+	opacity: 0.9;
+}
+
+.css-title {
+	text-align: center;
+	font-weight: 900;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 24px;
+}

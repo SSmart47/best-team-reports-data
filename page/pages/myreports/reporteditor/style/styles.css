@@ -1,0 +1,51 @@
+.css-inp-num {
+	border-radius: 10px;
+	outline: none;
+	background-color: rgba(255,255,255,0.1);
+	color: white;
+	text-align: center;
+	font-weight: 500;
+	border: none;
+}
+
+
+.css-inp-time {
+	border-radius: 10px;
+	outline: none;
+	background-color: rgba(255,255,255,0.1);
+	color: white;
+	text-align: center;
+	font-weight: 500;
+	border: none;
+}
+
+.css-inp-num-gp {
+	outline: none;
+	background-color: rgba(255,255,255,0.1);
+	color: white;
+	text-align: center;
+	font-weight: 500;
+	border: none;
+}
+
+
+.css-inp-time-gp {
+	outline: none;
+	background-color: rgba(255,255,255,0.1);
+	color: white;
+	text-align: center;
+	font-weight: 500;
+	border: none;
+}
+
+.css-btw {
+	width: 20px;
+	background-color: rgba(255,255,255,0.2);
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+   filter: invert(1);
+}
